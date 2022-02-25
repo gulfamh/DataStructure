@@ -2,7 +2,7 @@ package node;
 
 import java.util.*;
 
-import mst.DisjointSet;
+//import mst.DisjointSet;
 
 public class WeightedNode implements Comparable<WeightedNode> {
 	public String name;
@@ -12,20 +12,20 @@ public class WeightedNode implements Comparable<WeightedNode> {
 	private boolean isVisited = false;
 	private WeightedNode parent;
 	private int distance;
-	private DisjointSet set; //used in DisjointSet Algorithm
+	//private DisjointSet set; //used in DisjointSet Algorithm
 
 	public WeightedNode(String name) {
 		this.name = name;
 		distance = Integer.MAX_VALUE;
 	}
 
-	public DisjointSet getSet() {
+/*	public DisjointSet getSet() {
 		return set;
 	}
 
 	public void setSet(DisjointSet set) { //used in DisjointSet Algorithm
 		this.set = set;
-	}
+	}*/
 
 	public String getName() {
 		return name;
