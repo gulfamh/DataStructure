@@ -1,0 +1,66 @@
+Top DSA Questions Asked by FAANG & Product-Based Companies
+Here's a curated list of the most frequently asked DSA problems at FAANG, PayPal, JPMorgan, Agoda, Adobe, Microsoft, and similar top product companies. I've organized them by pattern/topic with difficulty and the companies that ask them most.
+
+1. Arrays & Strings (Very High Priority)
+#ProblemDifficultyFrequently Asked By1Two SumEasyAmazon, Google, Microsoft, Adobe2Best Time to Buy and Sell StockEasyAmazon, Facebook, Microsoft3Maximum Subarray (Kadane's Algorithm)MediumAmazon, Microsoft, LinkedIn4Product of Array Except SelfMediumAmazon, Facebook, Apple5Merge IntervalsMediumGoogle, Facebook, Microsoft, Adobe6Container With Most WaterMediumAmazon, Facebook, Adobe73SumMediumFacebook, Amazon, Microsoft8Trapping Rain WaterHardGoogle, Amazon, Goldman Sachs9Rotate ArrayMediumMicrosoft, Amazon10Find the Duplicate NumberMediumAmazon, Microsoft11Next PermutationMediumGoogle, Facebook, Microsoft12Spiral MatrixMediumAmazon, Microsoft, Adobe13Set Matrix ZeroesMediumMicrosoft, Amazon14Search in Rotated Sorted ArrayMediumAmazon, Microsoft, Adobe15Median of Two Sorted ArraysHardGoogle, Amazon, Adobe
+Strings
+#ProblemDifficultyAsked By16Longest Substring Without Repeating CharactersMediumAmazon, Adobe, Bloomberg17Longest Palindromic SubstringMediumAmazon, Microsoft, Adobe18Valid AnagramEasyAmazon, Facebook19Group AnagramsMediumAmazon, Facebook, Uber20Valid ParenthesesEasyAmazon, Microsoft, Google21Minimum Window SubstringHardFacebook, Amazon, LinkedIn22String to Integer (atoi)MediumAmazon, Microsoft, Adobe23Longest Common PrefixEasyAdobe, Amazon24Implement strStr() / KMPEasyMicrosoft, Adobe
+
+2. Two Pointers & Sliding Window
+#ProblemDifficultyAsked By25Move ZeroesEasyFacebook, Microsoft26Remove Duplicates from Sorted ArrayEasyMicrosoft, Adobe27Sliding Window MaximumHardAmazon, Google, Microsoft28Longest Repeating Character ReplacementMediumGoogle, Amazon29Permutation in StringMediumMicrosoft, Adobe30Subarray Sum Equals KMediumFacebook, Amazon
+
+3. Linked List (High Priority — JPMorgan, PayPal love these)
+#ProblemDifficultyAsked By31Reverse Linked ListEasyAmazon, Microsoft, Adobe, PayPal32Detect Cycle in Linked ListEasyAmazon, Microsoft, JPMorgan33Merge Two Sorted ListsEasyAmazon, Adobe, Microsoft34Merge K Sorted ListsHardAmazon, Facebook, Google35Remove Nth Node From EndMediumFacebook, Microsoft36Add Two Numbers (LinkedList)MediumAmazon, Microsoft, Adobe37Copy List with Random PointerMediumAmazon, Facebook, Microsoft38LRU CacheMediumAmazon, Facebook, Microsoft, Adobe39Reverse Nodes in K-GroupHardMicrosoft, Amazon, Adobe40Intersection of Two Linked ListsEasyAmazon, Adobe41Palindrome Linked ListEasyFacebook, Amazon42Flatten a Multilevel Doubly Linked ListMediumAmazon, Microsoft
+
+4. Stacks & Queues
+#ProblemDifficultyAsked By43Min StackEasyAmazon, Google, Adobe44Implement Queue using StacksEasyMicrosoft, Adobe45Implement Stack using QueuesEasyMicrosoft46Largest Rectangle in HistogramHardAmazon, Google, Microsoft47Daily TemperaturesMediumAmazon, Facebook48Next Greater ElementEasyAmazon, Adobe49Evaluate Reverse Polish NotationMediumLinkedIn, Microsoft50Asteroid CollisionMediumAmazon, Adobe
+
+5. Trees (Binary & BST) — Microsoft, Adobe favorites
+#ProblemDifficultyAsked By51Binary Tree Inorder/Preorder/Postorder TraversalEasyMicrosoft, Amazon, Adobe52Level Order Traversal (BFS)MediumAmazon, Microsoft, Adobe53Maximum Depth of Binary TreeEasyAmazon, LinkedIn54Lowest Common Ancestor (LCA)MediumFacebook, Amazon, Microsoft55Validate BSTMediumAmazon, Microsoft, Adobe56Serialize and Deserialize Binary TreeHardAmazon, Facebook, LinkedIn57Binary Tree Right Side ViewMediumAmazon, Facebook58Path Sum IIMediumAmazon, Microsoft59Diameter of Binary TreeEasyFacebook, Amazon60Invert Binary TreeEasyGoogle, Amazon61Symmetric TreeEasyMicrosoft, Adobe62Construct Binary Tree from Preorder and InorderMediumAmazon, Microsoft, Adobe63Binary Tree Maximum Path SumHardAmazon, Facebook, Microsoft64Kth Smallest Element in BSTMediumAmazon, Facebook65Convert Sorted Array to BSTEasyAmazon, Adobe66Flatten Binary Tree to Linked ListMediumMicrosoft, Adobe67Populating Next Right PointersMediumMicrosoft, Amazon
+
+6. Heap / Priority Queue
+#ProblemDifficultyAsked By68Kth Largest Element in ArrayMediumAmazon, Facebook, LinkedIn69Top K Frequent ElementsMediumAmazon, Facebook, Uber70Find Median from Data StreamHardAmazon, Google, Microsoft71Merge K Sorted ListsHardAmazon, Facebook, Google72Task SchedulerMediumFacebook, Amazon73Reorganize StringMediumAmazon, Facebook74K Closest Points to OriginMediumFacebook, Amazon, LinkedIn
+
+7. HashMap / HashSet
+#ProblemDifficultyAsked By75Two SumEasyAll76Longest Consecutive SequenceMediumGoogle, Amazon77Subarray Sum Equals KMediumFacebook, Amazon78First Unique Character in a StringEasyAmazon, Microsoft79Group AnagramsMediumAmazon, Facebook80Insert Delete GetRandom O(1)MediumAmazon, LinkedIn, Twitter
+
+8. Graphs / BFS / DFS
+#ProblemDifficultyAsked By81Number of IslandsMediumAmazon, Facebook, Google82Clone GraphMediumFacebook, Amazon83Course Schedule (Topological Sort)MediumFacebook, Amazon, Microsoft84Pacific Atlantic Water FlowMediumAmazon, Google85Word LadderHardAmazon, Facebook, LinkedIn86Rotting OrangesMediumAmazon, Microsoft87Word SearchMediumAmazon, Microsoft, Adobe88Surrounded RegionsMediumAmazon, Google89Network Delay Time (Dijkstra)MediumAmazon, Microsoft90Cheapest Flights Within K StopsMediumAmazon, Google91Alien DictionaryHardAmazon, Facebook, Google92Reconstruct ItineraryHardGoogle, Amazon
+
+9. Dynamic Programming (Heavily Asked)
+#ProblemDifficultyAsked By93Climbing StairsEasyAmazon, Adobe94House RobberMediumAmazon, LinkedIn95House Robber IIMediumAmazon, Microsoft96Coin ChangeMediumAmazon, Microsoft, Adobe97Longest Increasing SubsequenceMediumMicrosoft, Amazon, Adobe98Longest Common SubsequenceMediumAmazon, Adobe, Microsoft99Edit DistanceHardAmazon, Google, Microsoft100Word BreakMediumAmazon, Facebook, Google101Partition Equal Subset SumMediumAmazon, Microsoft102Maximum Product SubarrayMediumAmazon, LinkedIn103Decode WaysMediumFacebook, Amazon104Unique PathsMediumAmazon, Adobe105Jump GameMediumAmazon, Microsoft106Jump Game IIMediumAmazon, Adobe107Best Time to Buy/Sell Stock with CooldownMediumGoogle, Amazon108Palindromic SubstringsMediumFacebook, Amazon109Regular Expression MatchingHardGoogle, Facebook110Wildcard MatchingHardFacebook, Amazon
+
+10. Backtracking
+#ProblemDifficultyAsked By111SubsetsMediumFacebook, Amazon112PermutationsMediumAmazon, LinkedIn, Adobe113CombinationsMediumFacebook, Amazon114Combination SumMediumAmazon, Facebook, Adobe115Word SearchMediumAmazon, Microsoft, Adobe116N-QueensHardAmazon, Google117Sudoku SolverHardGoogle, Amazon, Microsoft118Letter Combinations of Phone NumberMediumAmazon, Facebook119Generate ParenthesesMediumAmazon, Facebook, Google120Palindrome PartitioningMediumAmazon, Microsoft
+
+11. Binary Search
+#ProblemDifficultyAsked By121Binary SearchEasyAll122Search in Rotated Sorted ArrayMediumAmazon, Microsoft, Adobe123Find Minimum in Rotated Sorted ArrayMediumAmazon, Adobe124Find Peak ElementMediumFacebook, Google125Median of Two Sorted ArraysHardGoogle, Amazon126Search a 2D MatrixMediumAmazon, Microsoft127Koko Eating BananasMediumGoogle, Amazon128Capacity to Ship PackagesMediumAmazon, Adobe
+
+12. Trie
+#ProblemDifficultyAsked By129Implement Trie (Prefix Tree)MediumAmazon, Microsoft, Google130Word Search IIHardAmazon, Microsoft, Adobe131Add and Search WordMediumAmazon, Facebook132Replace WordsMediumAmazon, Adobe
+
+13. Bit Manipulation
+#ProblemDifficultyAsked By133Single NumberEasyAmazon, Adobe134Number of 1 BitsEasyMicrosoft, Adobe135Counting BitsEasyAmazon136Missing NumberEasyMicrosoft, Amazon137Reverse BitsEasyApple, Airbnb138Sum of Two Integers (without +)MediumAdobe, Amazon
+
+14. Company-Specific Hot Picks
+Microsoft Favorites
+Reverse Linked List, LRU Cache, Serialize/Deserialize Tree, Word Search II, Rotate Image, Spiral Matrix, Validate BST, Trapping Rain Water
+Amazon Favorites
+Two Sum, LRU Cache, Number of Islands, K Closest Points, Merge K Sorted Lists, Word Ladder, Trapping Rain Water, Copy List with Random Pointer
+Google Favorites
+Median of Two Sorted Arrays, Word Ladder, Alien Dictionary, Regular Expression Matching, Trapping Rain Water, Longest Consecutive Sequence
+Facebook/Meta Favorites
+3Sum, Minimum Window Substring, Binary Tree Maximum Path Sum, Subsets, Merge Intervals, Clone Graph, Add Binary
+Adobe Favorites
+LRU Cache, Median of Two Sorted Arrays, Word Search II, Longest Palindromic Substring, Spiral Matrix, Coin Change, Merge Intervals
+JPMorgan / PayPal / Goldman Sachs Favorites
+(Tend to favor fundamentals + system-design-lite)
+Reverse Linked List, Detect Cycle, Trapping Rain Water, LRU Cache, Producer-Consumer, Sliding Window Max, Min Stack, BST validation, Anagram problems
+Agoda Favorites
+(Heavy on real-world problems)
+LRU Cache, Sliding Window, Rate Limiter (system + DSA hybrid), Top K problems, Merge Intervals, Graph traversal
+
+Recommended Study Order
+The smartest way to attack this list is to follow patterns, not problem count. Start with Arrays/Strings + Two Pointers for weeks 1-2 since these build foundational instincts and appear in nearly every interview. Then move to HashMap, Linked List, Stack/Queue in week 3 — these often appear as "easy" warm-up problems before harder questions. In weeks 4-5, tackle Trees and Recursion since they unlock graph and DP intuition. Spend weeks 6-7 on Graphs and BFS/DFS, then dedicate weeks 8-9 to Dynamic Programming, which is the highest-yield topic for senior roles. Finish with Backtracking, Trie, and Heap in week 10. Always solve 2-3 problems per pattern before moving on — pattern recognition matters more than problem count.
+Practice Strategy
+For each problem, follow this loop: read the problem, think for 15 minutes without looking at solutions, code it out, test edge cases, then look at the optimal solution and learn the pattern. After solving, write a one-line summary like "Two Sum → HashMap for O(n) lookup" so you can recall patterns quickly later. Revisit problems weekly using spaced repetition — solving a problem twice with a 3-day gap cements it better than solving 3 new ones.
